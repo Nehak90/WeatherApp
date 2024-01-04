@@ -49,7 +49,7 @@
     gap: 30px;
   }
   .searchbar-container {
-    
+   background: rgb(21, 24, 51);
     background: linear-gradient(
       180deg,
       rgba(21, 24, 51, 1) 3%,
